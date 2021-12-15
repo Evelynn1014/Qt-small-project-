@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/homework_cxd/homework1/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+todo.h
+D:/homework_cxd/homework1/todo.h
+
+D:/homework_cxd/homework1/todo.cpp
+todo.h
+D:/homework_cxd/homework1/todo.h
+cstdlib
+-
+
+D:/homework_cxd/homework1/todo.h
+fstream
+-
+iostream
+-
+

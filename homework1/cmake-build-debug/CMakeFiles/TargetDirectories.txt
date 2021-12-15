@@ -1,0 +1,4 @@
+D:/homework_cxd/homework1/cmake-build-debug/CMakeFiles/homework1.dir
+D:/homework_cxd/homework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/homework_cxd/homework1/cmake-build-debug/CMakeFiles/main.dir
+D:/homework_cxd/homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
